@@ -1,0 +1,16 @@
+{
+  "key.categories.delta_spot": "Delta Spot",
+  "key.delta_spot.marker_wheel": "标点轮盘",
+  "marker_wheel.delta_spot.title": "标点",
+  "marker_wheel.delta_spot.release": "松开放置",
+  "marker_wheel.delta_spot.enemy_mark": "标记敌人",
+  "marker_wheel.delta_spot.enemy": "发现敌情",
+  "marker_wheel.delta_spot.attention": "留意此处",
+  "marker_wheel.delta_spot.attack": "进攻这里",
+  "marker_wheel.delta_spot.defend": "防守这里",
+  "marker_wheel.delta_spot.support_1": "队友1指令1",
+  "marker_wheel.delta_spot.support_2": "队友1指令2",
+  "marker_wheel.delta_spot.support_3": "队友2指令1",
+  "marker_wheel.delta_spot.support_4": "队友2指令2",
+  "marker_wheel.delta_spot.distance": "%s 米"
+}

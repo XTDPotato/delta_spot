@@ -1,0 +1,16 @@
+{
+  "key.categories.delta_spot": "Delta Spot",
+  "key.delta_spot.marker_wheel": "Marker wheel",
+  "marker_wheel.delta_spot.title": "Marker",
+  "marker_wheel.delta_spot.release": "Release to place",
+  "marker_wheel.delta_spot.enemy_mark": "Enemy marked",
+  "marker_wheel.delta_spot.enemy": "Enemy spotted",
+  "marker_wheel.delta_spot.attention": "Attention here",
+  "marker_wheel.delta_spot.attack": "Attack here",
+  "marker_wheel.delta_spot.defend": "Defend here",
+  "marker_wheel.delta_spot.support_1": "Teammate 1 command 1",
+  "marker_wheel.delta_spot.support_2": "Teammate 1 command 2",
+  "marker_wheel.delta_spot.support_3": "Teammate 2 command 1",
+  "marker_wheel.delta_spot.support_4": "Teammate 2 command 2",
+  "marker_wheel.delta_spot.distance": "%s m"
+}
